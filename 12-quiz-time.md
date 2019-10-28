@@ -26,7 +26,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+Milkshake.js
 
 -----------------------------------
 
@@ -42,7 +42,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 -----------------------------------
 
@@ -67,7 +67,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+2. No
 
 ----------------------------------
 
@@ -88,7 +88,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1. Yes
 
 ----------------------------------
 
@@ -114,7 +114,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4. The `ReactDOM.render` method generates a new element with an ID of `root`, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
 
 -----------------------------------
@@ -129,7 +129,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1. True
 
 ----------------------------------
 
@@ -145,7 +145,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4. All of the above
 
 -----------------------------------
 
@@ -183,7 +183,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 
 
 ----------------------------------
@@ -201,7 +201,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+3. `create-react-app jungle_maze`
 
 ----------------------------------
 
@@ -237,7 +237,7 @@ _Choices_:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+2. No
 
 ----------------------------------
 
@@ -256,3 +256,4 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
